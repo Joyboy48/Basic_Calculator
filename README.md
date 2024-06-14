@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+A Basic Calculator App which perform Two number calculations.
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -14,3 +14,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/Joyboy48/Basic_Calculator/assets/147731572/93fd0d9c-d1ea-4849-a28e-a50937b26a67)
+
