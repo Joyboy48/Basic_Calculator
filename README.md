@@ -1,10 +1,10 @@
 # calculator
 
-A new Flutter project.
+A new Flutter project. A Basic Calculator App which perform Two number calculations.
 
 ## Getting Started
 
-A Basic Calculator App which perform Two number calculations.
+
 
 A few resources to get you started if this is your first Flutter project:
 
